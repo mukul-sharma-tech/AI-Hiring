@@ -871,7 +871,7 @@ export default function CandidateDashboard() {
               ) : (
                 <div className="p-6 text-center bg-blue-50 rounded-lg border border-blue-100">
                   <p className="text-gray-600">No interview pings yet</p>
-                  <p className="text-sm text-gray-500 mt-1">You'll be notified here when you receive interview requests</p>
+                  <p className="text-sm text-gray-500 mt-1">You&apos;ll be notified here when you receive interview requests</p>
                 </div>
               )}
             </motion.div>
