@@ -1316,7 +1316,7 @@ export default function InterviewPage() {
           </div>
           <h1 className="text-2xl font-bold mb-2">Interview Completed</h1>
           <p className="text-gray-400">Evaluating your responses...</p>
-          <p className="text-gray-500 text-sm mt-1">You'll receive feedback shortly</p>
+          <p className="text-gray-500 text-sm mt-1">You&apos;ll receive feedback shortly</p>
         </div>
       </div>
     );
